@@ -2,6 +2,7 @@ package NumberSystem;
 import java.util.Scanner;
 public class BinaryToDecimal {
 	public static void main(String[] args) {
+System.out.println("this is done by seenu");
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter The binary digits");
 		int n=sc.nextInt();
